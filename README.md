@@ -1,3 +1,3 @@
 # hello-world
 Practise with repositories
-Hi I am Harry
+Hi my name is Harry
